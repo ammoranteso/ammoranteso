@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B82F&width=435&lines=Andres+Morantes" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B82F&width=480&lines=Andres+Mauricio+Morantes" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -9,10 +9,8 @@
 
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/osmandurdag/](https://www.linkedin.com/in/ammoranteso/)" title="LinkedIn Profile"><img width="22" src="![image](https://github.com/user-attachments/assets/5e70c48a-e9c4-48f5-80de-7dba5198c3bb)
-"> LinkedIn</a></code>
-  <code><a href="[https://leetcode.com/u/user2024Wz/]" title="Leetcode Profile"><img width="22" src="![image](https://github.com/user-attachments/assets/633871df-2ee0-4353-8b61-e0a9915fc6e3)
-"> Leetcode</a></code>
+  <a href=https://www.linkedin.com/in/ammoranteso/"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammoranteso/"></a>
+  <a href=https://leetcode.com/u/user2024Wz/"><img alt="Linkedin" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/user2024Wz/"></a>
  </h5>
 <br>
 <p align="center">
